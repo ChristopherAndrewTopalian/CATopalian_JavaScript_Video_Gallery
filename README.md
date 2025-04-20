@@ -3,6 +3,8 @@ A JavaScript application that displays videos from an array of objects in an ord
 
 ![screenshot_001](src/media/textures/screenshots/001.PNG)
 
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Gallery/CATopalian_JavaScript_Video_Gallery.html  
+
 ---
 
 ### How to Download this App
